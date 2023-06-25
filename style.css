@@ -1,0 +1,19 @@
+.title {
+    margin: auto;
+}
+
+.square-btn {
+    height: 2vw;
+    width: 2vw;
+    border-radius: 30%;
+}
+
+.utilities-button {
+    position:absolute;
+    top:0;
+    right:0
+}
+
+#word-intro, #word-number, #letter-intro, #letter-number {
+    display: none;
+}
